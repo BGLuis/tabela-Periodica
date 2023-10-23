@@ -1,0 +1,10 @@
+# 1- Objetivos:
+    testar o framework flask;
+    criar uma api para servir para consultar dados de uma tabela periodica;
+# 2 Url base 
+    locahost
+# 3 Endpoints
+    locahost/elementos/(nome) (GET)
+    locahost/elementos/(id) (GET)
+    locahost/elementos/(nome) (put)
+    locahost/tabela (GET)
